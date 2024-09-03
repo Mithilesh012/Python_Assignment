@@ -1,0 +1,24 @@
+1) open your pychram
+2) create pychyam projects
+3) Flask_projects
+4) create on python file app.py
+5) install flask in your pycharm terminal: pip install flask
+
+
+redirect and render
+redirect value return values get
+render value return
+
+        frame work
+
+flask 10% use now time
+django 90% use --''--
+pyramid not use now time
+
+       django                    ||                    flask
+multipage application                              single page app
+API not suporrt                                     API support
+python lib are  support                        python lib are not support
+ASGI (Appliction site                        WSGI(web site gateway interface)
+   gateway interface)
+
